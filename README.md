@@ -1,4 +1,4 @@
-# Room-For-Hire-Project
+# BNB-Like
 
 Room For Hire Project is a software that allows user to post, rent, and rate rooms using a dedicated system.
 
